@@ -1,1 +1,1 @@
-# py_playground
+# py_playground for pygame
